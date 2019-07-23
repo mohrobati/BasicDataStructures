@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zosoist/CLionProjects/Graph/BreadthFirstTraversal/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zosoist/CLionProjects/Graph/DijkstraAlgorithm/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+sys/time.h
+-
+
